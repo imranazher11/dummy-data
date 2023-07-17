@@ -1,6 +1,7 @@
 {
   "posts": [
     {
+      "id": 1,
       "dateTime": "July 10, 23 - 10:45 AM",
       "organization": "ABC Corp",
       "project": "ABC Smart Building",
@@ -9,6 +10,7 @@
       "action": "Data Sync"
     },
     {
+      "id": 2,
       "dateTime": "July 10, 23 - 10:42 AM",
       "organization": "ABC Corp",
       "project": "All projects",
@@ -17,6 +19,7 @@
       "action": "Logged In"
     },
     {
+      "id": 3,
       "dateTime": "July 10, 23 - 10:42 AM",
       "organization": "ABC Corp",
       "project": "ABC Smart Building",
@@ -25,6 +28,7 @@
       "action": "Data Sync"
     },
     {
+      "id": 4,
       "dateTime": "July 9, 23 - 11:45 PM",
       "organization": "XYX Corp",
       "project": "--",
